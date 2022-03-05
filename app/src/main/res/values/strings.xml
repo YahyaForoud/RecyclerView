@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="main_full_name">Enter Full Name…</string>
+    <string name="main_add_contact">Add new contact</string>
+</resources>

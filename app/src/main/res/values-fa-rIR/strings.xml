@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ریسایکلر ویو</string>
+    <string name="main_full_name">نام و نام خانوادگی را وارد کنید…</string>
+    <string name="main_add_contact">اضافه کردن مخاطب جدید</string>
+</resources>
